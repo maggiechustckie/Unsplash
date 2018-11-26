@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en"><!-- InstanceBegin template="/Templates/nathan-dumlao-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/master-template.dwt" codeOutsideHTMLIsLocked="false" -->
   <head>
   <!-- Required meta tags -->
   <meta charset="utf-8">
@@ -10,22 +10,23 @@
   <!-- InstanceBeginEditable name="doctitle" -->
   <title>Unsplash- Nathan Dumlao</title>
   <!-- InstanceEndEditable -->
-  
   <!-- InstanceBeginEditable name="head" -->
+  <!-- TemplateBeginEditable name="head" -->
+  <!-- TemplateEndEditable -->
   <!-- InstanceEndEditable -->
-  
   </head>
   <body>
     <div class="container">
 		<h1>Unsplash Photographer Spotlight</h1>
 		<p>[About Me]</p>
-		
+		<!-- InstanceBeginEditable name="master-content" -->
 		<nav aria-label="breadcrumb">
   <ol class="breadcrumb">
 	   <li class="breadcrumb-item" ><a href="../index.html">Home</a></li>
-	   <!-- InstanceBeginEditable name="breadcrumb-trail" -->
-	   <li class="breadcrumb-item active" aria-current="page">Nathan Dumlao</li>
-	   <!-- InstanceEndEditable -->
+	   <!-- TemplateBeginEditable name="breadcrumb-trail" -->
+	   <li class="breadcrumb-item active">Nathan Dumlao</li>
+	
+	   <!-- TemplateEndEditable -->
   </ol>
 </nav>
       <div class="row">
@@ -42,11 +43,11 @@
             </ul>
           </div>
         </div>
-        <div class="col-12 col-sm-6 col-md-9"><!-- InstanceBeginEditable name="nathan-dumlao-content" -->
-        <p>This is where content goes</p>
-        <!-- InstanceEndEditable --></div>
+        <div class="col-12 col-sm-6 col-md-9"><!-- TemplateBeginEditable name="nathan-dumlao-content" -->
+          <p>This is where content goes</p>
+          <!-- TemplateEndEditable --></div>
       </div>
-      
+      <!-- InstanceEndEditable -->
 		<p>[Footer]</p>
 	  </div>
 	  
