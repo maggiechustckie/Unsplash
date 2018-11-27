@@ -20,7 +20,16 @@
 		<!-- TemplateBeginEditable name="master-content" -->
       <p>This is where content goes.</p>
       <!-- TemplateEndEditable -->
-		<p>[Footer]</p>
+		<div class="row">
+			<div class="col-12 col-sm-6">
+			Made with Diet Coke
+			</div>
+			<div class="col-sm-6">
+				Connect with me on... 
+				<a href="https://www.instagram.com/maggiechustckie/" target="_blank">Instagram</a>
+				<a href="https://twitter.com/chustckie" target="_blank">Twitter</a>
+			</div>
+		</div>
 	  </div>
 	  
     <!-- Optional JavaScript --> 
