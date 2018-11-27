@@ -18,7 +18,7 @@
   <body>
     <div class="container">
 		<h1>Unsplash Photographer Spotlight</h1>
-		<p>[About Me]</p>
+		
 		<!-- InstanceBeginEditable name="master-content" -->
 		<nav aria-label="breadcrumb">
   <ol class="breadcrumb">
