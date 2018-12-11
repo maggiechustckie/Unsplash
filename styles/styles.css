@@ -60,7 +60,37 @@ a:hover {
     color: #ffffff;
     font-size: 2em;
     margin-left: .25em;
+}
 
+.unsplash-home-page-intro {
+    background-color: #4EACF6;
+    color: #ffffff;
+    padding: 1em 0;
+    margin-bottom: 1em;
+}
+.unsplash-navigation {
+	background-color: #4EACF6;
+	padding-top: .5em;
+	padding-bottom: .5em;
+	margin: 0;
+	margin-bottom: 2em;
+}
+.unsplash-navigation .breadcrumb {
+	background-color: #4EACF6;
+	margin: 0;
+	color: #ffffff;
+}
+.unsplash-navigation .breadcrumb li, .unsplash-navigation .breadcrumb a, .unsplash-navigation .breadcrumb a:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
+.unsplash-navigation .breadcrumb li.active {
+	color: #CA41DB;
+	font-weight: 400;
+}
+.breadcrumb-item+.breadcrumb-item::before {
+	color: #ffffff;
+}
 
 
 
