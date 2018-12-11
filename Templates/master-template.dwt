@@ -4,48 +4,48 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
   <!-- TemplateBeginEditable name="doctitle" -->
   <title>Unsplash Photographer Spotlight</title>
   <!-- TemplateEndEditable -->
-	  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
-	  <link href="https://fonts.googleapis.com/css?family=Roboto:100,400|Wire+One" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,400|Wire+One" rel="stylesheet">
   <link href="../styles/styles.css" rel="stylesheet" type="text/css">
   <!-- TemplateBeginEditable name="head" -->
   <!-- TemplateEndEditable -->
+  <!-- TemplateParam name="home-page-intro" type="boolean" value="false" -->
   </head>
   <body>
-	  <div class="unsplash-header">
-		<div class="container">
-			   <h1><a href="../index.html">Unsplash Photographer Spotlight <small>By Maggie Chustckie</small></a></h1>
-	  </div>
-	</div>
-    <div class="container">
-		
-		
-		<!-- TemplateBeginEditable name="master-content" -->
+    <div class="unsplash-header">
+      <div class="container">
+        <h1><a href="../index.html">Unsplash Photographer Spotlight <small>By Maggie Chustckie</small></a></h1>
+      </div>
+    </div>
+    <!-- TemplateBeginIf cond="_document['home-page-intro']" --> <!-- TemplateBeginIf cond="_document['home-page-intro']" -->
+    <div class="unsplash-home-page-intro">
+      <div class="container">
+        <div class="row">
+          <div class="col-3 col-md-2 col-lg-1"> <img src="../profile-picture/maggie-chustckie.jpg" alt="Maggie Chustckie" class="img-fluid rounded-circle"/> </div>
+          <div class="col-9 col-md-10 col-lg-11">
+            <p>Welcome to my Unsplash Photographer Spotlight. Below are six photographers that have inspired me with their work. I've selected 10 photos from each photographer's Unsplash portfolio and presented some commentary. Click on any photographer to start.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- TemplateEndIf --><!-- TemplateEndIf -->
+    <div class="container"> <!-- TemplateBeginEditable name="master-content" -->
       <p>This is where content goes.</p>
-      <!-- TemplateEndEditable -->
-		
-		
-	  </div>
-	  <div class="unsplash-footer">
-		<div class="container">
-			<div class="row">
-			<div class="col-12 col-sm-6">
-			Made with Diet Coke
-			</div>
-			<div class="col-sm-6 text-right">
-				Connect with me on... 
-				<a href="https://www.instagram.com/maggiechustckie/" target="_blank"><i class="fab fa-instagram"></i></a>
-				<a href="https://twitter.com/chustckie" target="_blank"><i class="fab fa-twitter-square"></i></a>
-			</div>
-		</div>
-			</div>
-		</div>
-	  
+      <!-- TemplateEndEditable --> </div>
+    <div class="unsplash-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-sm-6"> Made with Diet Coke </div>
+          <div class="col-sm-6 text-right"> Connect with me on... <a href="https://www.instagram.com/maggiechustckie/" target="_blank"><i class="fab fa-instagram"></i></a> <a href="https://twitter.com/chustckie" target="_blank"><i class="fab fa-twitter-square"></i></a> </div>
+        </div>
+      </div>
+    </div>
+    
     <!-- Optional JavaScript --> 
     <!-- jQuery first, then Popper.js, then Bootstrap JS --> 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> 
