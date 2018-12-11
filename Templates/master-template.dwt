@@ -15,6 +15,7 @@
   <!-- TemplateBeginEditable name="head" -->
   <!-- TemplateEndEditable -->
   <!-- TemplateParam name="home-page-intro" type="boolean" value="false" -->
+  <!-- TemplateParam name="navigation" type="boolean" value="true" -->
   </head>
   <body>
     <div class="unsplash-header">
@@ -33,7 +34,22 @@
         </div>
       </div>
     </div>
-    <!-- TemplateEndIf --><!-- TemplateEndIf -->
+    <!-- TemplateEndIf --><!-- TemplateEndIf --><!-- TemplateBeginIf cond="navigation" -->
+	 <div class="unsplash-navigation">
+      <div class="container">
+        <nav>
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
+            <!-- TemplateBeginEditable name="breadcrumb-trail" -->
+            <li class="breadcrumb-item active">Nathan Dumlao</li>
+            <li class="breadcrumb-item active">Example Photo</li>
+            <!-- TemplateEndEditable -->
+          </ol>
+        </nav>
+      </div>
+    </div>
+   
+    <!-- TemplateEndIf -->
     <div class="container"> <!-- TemplateBeginEditable name="master-content" -->
       <p>This is where content goes.</p>
       <!-- TemplateEndEditable --> </div>
