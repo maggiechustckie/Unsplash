@@ -7,7 +7,7 @@ h1, h2, h3 {
 	font-family: 'Wire One', sans-serif;
 }
 a {
-	color: #25333a;
+	color: #FF29B2;
 }
 a:hover {
 	color: #409aa9;
@@ -15,23 +15,23 @@ a:hover {
 }
 
 a:footer hover {
-	color: #409aa9;
+	color: #FFF335;
 	text-decoration:  none;
 }
 
 .btn-primary {
 	color: #fff;
-	background-color: #25333a;
-	border-color: #25333a;
+	background-color: #FF29B2;
+	border-color: #FF29B2;
 	font-weight: 100;
 }
 .btn-primary:hover {
-	background-color: #409aa9;
-	border-color: #409aa9;
+	background-color: #E8C631;
+	border-color: #E8C631;
 }
 
 .unsplash-header {
-	background-color: #25333a;
+	background-color: #FF29B2;
 	padding-top: 1em;
 	padding-bottom: 1em;
 	margin: 0;
@@ -52,36 +52,36 @@ a:footer hover {
 }
 
 .unsplash-footer {
-	border-top: solid 5px #409aa9;
-	background-color: #25333a;
+	border-top: solid 5px #35FFDB;
+	background-color: #FFF335;
 	padding-top: 1em;
 	padding-bottom: 1em;
 	margin: 0;
 	margin-top: 2em;
-	color: #ffffff;
+	color: #000000;
 }
 
 	.unsplash-footer a {
-    color: #ffffff;
+    color: #000000;
     font-size: 2em;
     margin-left: .25em;
 }
 
 .unsplash-home-page-intro {
-    background-color: #4EACF6;
+    background-color: #35FFDB;
     color: #ffffff;
     padding: 1em 0;
     margin-bottom: 1em;
 }
 .unsplash-navigation {
-	background-color: #4EACF6;
+	background-color: #FFBAA5;
 	padding-top: .5em;
 	padding-bottom: .5em;
 	margin: 0;
 	margin-bottom: 2em;
 }
 .unsplash-navigation .breadcrumb {
-	background-color: #4EACF6;
+	background-color: #FFBAA5;
 	margin: 0;
 	color: #ffffff;
 }
@@ -98,21 +98,21 @@ a:footer hover {
 }
 
 .unsplash-home-page-intro {
-	background-color: #409aa9;
+	background-color: #FFBAA5;
 	padding:3em 0;
 	color: #ffffff;
 	margin-bottom: 2em;
 }
 
 .unsplash-navigation {
-	background-color: #409aa9;
+	background-color: #FFBAA5;
 	padding-top: .5em;
 	padding-bottom: .5em;
 	margin: 0;
 	margin-bottom: 2em;
 }
 .unsplash-navigation .breadcrumb {
-	background-color: #409aa9;
+	background-color: #FFBAA5;
 	margin: 0;
 	color: #ffffff;
 }
@@ -121,7 +121,7 @@ a:footer hover {
 	text-decoration: none;
 }
 .unsplash-navigation .breadcrumb li.active {
-	color: #25333a;
+	color: black;
 	font-weight: 400;
 }
 .breadcrumb-item+.breadcrumb-item::before {
