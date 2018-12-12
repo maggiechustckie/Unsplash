@@ -128,3 +128,28 @@ a:footer hover {
 	color: #ffffff;
 }
 
+.modal h1 {
+	margin:0;
+}
+
+.modal h1 {
+	margin:0;
+}
+dt {
+	font-family: 'Wire One', sans-serif;
+	font-size: 1.75em;
+}
+
+dd {
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+	font size .8em
+	font-weight: 100;
+	
+}
+dd small {
+	font-size: .8em;
+	font-weight: 100;
+}
+
